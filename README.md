@@ -1,4 +1,4 @@
-# github_dark_theme
+# Github Dark Theme
 
 A Home Assistant theme inspired on Github.
 
