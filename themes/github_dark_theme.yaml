@@ -1,6 +1,7 @@
 # Theme based on Github
 # Creator: @einschmidt
 #
+#
 Github Dark Theme:
   # Header:
   app-header-background-color: "#1F2428"
@@ -15,7 +16,7 @@ Github Dark Theme:
   # Text
   primary-text-color: "#f6f8fa"
   secondary-text-color: "#959da5"
-  text-primary-color: var(--primary-text-color)
+  text-primary-color: "#2f363d"
   disabled-text-color: "#586069"
   # Sidebar Menu
   sidebar-icon-color: "#6a737d"
