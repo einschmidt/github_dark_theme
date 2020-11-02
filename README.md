@@ -1,9 +1,9 @@
-# Github Dark Theme
+# GitHub Dark Theme
 
-A Home Assistant theme inspired on Github.
+A Home Assistant theme inspired on GitHub.
 
 ### Screenshots
-![Github Dark](https://github.com/einschmidt/github_dark_theme/blob/main/images/theme_dark.png)
+![GitHub Dark](https://github.com/einschmidt/github_dark_theme/blob/main/images/theme_dark.png)
 
 ### Preparation
 1. Make sure that under the **configuration.yaml** file you have the following:
@@ -18,7 +18,7 @@ frontend:
 
 ### HACS installation
 1. Go into the Community Store (HACS)
-2. Search for Github Dark Theme
+2. Search for GitHub Dark Theme
 3. Open the theme
 4. Press Install
 5. Restart Home Assistant
@@ -30,4 +30,4 @@ frontend:
 
 ### Enable theme
 1. Open your Home Assistant **Profile**
-2. Under, **Themes**, select the new Github Dark Theme
+2. Under, **Themes**, select the new GitHub Dark Theme
