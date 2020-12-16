@@ -5,7 +5,7 @@
 A Home Assistant theme inspired on GitHub.
 
 ### Screenshots
-![GitHub Dark](https://github.com/einschmidt/github_dark_theme/blob/main/images/theme_dark.png)
+![GitHub Dark](https://github.com/einschmidt/github_dark_theme/blob/main/images/theme_dark_2.png)
 
 ### Preparation
 1. Make sure that under the **configuration.yaml** file you have the following:
