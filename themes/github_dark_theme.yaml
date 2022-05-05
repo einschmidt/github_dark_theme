@@ -74,6 +74,17 @@ Github Dark Theme:
   # mdc-theme-surface: var(--primary-background-color)
   # Pre/Code
   markdown-code-background-color: "#2F363D"
-  # Customs
-  bar-card-color: "#1F6FEB"
-  bar-card-border-radius: "6px"
+  # Checkboxes
+  mdc-select-fill-color: rgb(32, 33, 36)
+  mdc-select-ink-color: var(--primary-text-color)
+  mdc-select-label-ink-color: var(--secondary-text-color)
+  mdc-select-idle-line-color: var(--primary-text-color)
+  mdc-select-dropdown-icon-color: var(--secondary-text-color)
+  mdc-select-hover-line-color: var(--accent-color)
+  # Input
+  input-fill-color: var(--secondary-background-color)
+  input-dropdown-icon-color: var(--secondary-text-color)
+  input-ink-color: var(--primary-text-color)
+  input-label-ink-color: var(--secondary-text-color)
+  input-idle-line-color: var(--primary-text-color)
+  input-hover-line-color: var(--accent-color)
