@@ -48,8 +48,8 @@ Github Dark Theme:
   label-badge-gray: "#0D1117"
   # Cards
   card-background-color: "#21262D"
-  ha-card-border-radius: "6px"
-  ha-card-box-shadow: "0px 0px 0px 1px #30363d"
+  ha-card-border-radius: "0.64rem"
+  ha-card-box-shadow: "0rem 0rem 0rem 0.08rem #30363d"
   paper-dialog-background-color: var(--card-background-color)
   paper-listbox-background-color: var(--card-background-color)
   paper-card-background-color: var(--card-background-color)
